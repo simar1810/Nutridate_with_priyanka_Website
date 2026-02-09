@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.aaharsutra",
+      "package_name": "com.wellnessz.nutridate",
       "sha256_cert_fingerprints": [
-        "52:42:B2:7E:21:24:11:20:03:73:29:1C:37:F1:1B:6C:DB:39:C9:A2:DC:66:32:8E:6A:33:59:38:E5:21:B7:64"
+        "6B:D1:3D:CE:28:93:27:50:C4:EC:C4:49:85:F9:5E:5A:26:38:EA:AB:64:2D:C1:E4:4C:93:1A:BE:DC:5A:CE:47"
       ]
     }
   }
